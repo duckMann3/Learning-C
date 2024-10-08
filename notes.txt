@@ -1,3 +1,0 @@
-1. Why can't the '&' operator be used on expressions, constants, or register variables?
-
-2. 

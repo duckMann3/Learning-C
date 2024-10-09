@@ -1,12 +1,13 @@
 # Learning-C
 
 /bits <br />
-/data_types
-/header-files
-/ostep
-/pointers
-    /basics-of-pointers
-    /char-pointers
+/data_types <br />
+/header-files <br />
+/ostep <br />
+/pointers <br />
+```/basics-of-pointers <br />
+```/char-pointers <br />
+
     /dynamic_mem_alloc
     /function-pointers
         /1_simple_examples

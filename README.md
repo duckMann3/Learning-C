@@ -5,12 +5,10 @@
 /header-files <br />
 /ostep <br />
 
-```
-/pointers <br />
-/basics-of-pointers <br />
-/char-pointers <br />
-
-    /dynamic_mem_alloc
+/pointers 
+/basics-of-pointers 
+/char-pointers 
+/dynamic_mem_alloc
     /function-pointers
         /1_simple_examples
         /typedef_func_ptr
@@ -25,7 +23,6 @@
           
     typdef_2.c
     typdef_3.c
-```
 /storage-classes
 
 /threads

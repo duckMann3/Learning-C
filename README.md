@@ -5,13 +5,13 @@
 /header-files <br />
 /ostep <br />
 
-/pointers 
-/basics-of-pointers 
-/char-pointers 
-/dynamic_mem_alloc
-    /function-pointers
-        /1_simple_examples
-        /typedef_func_ptr
+/pointers <br /> 
+/basics-of-pointers <br /> 
+/char-pointers <br /> 
+/dynamic_mem_alloc <br />
+    /function-pointers <br />
+        /1_simple_examples <br />
+        /typedef_func_ptr <br />
             typdef_1.c
             Source: GeeksforGeeks
             Description:
@@ -20,7 +20,6 @@
         > Syntax: typdef existing_name alias_name;
         i.e:
           typedef long long ll;
-          
     typdef_2.c
     typdef_3.c
 /storage-classes

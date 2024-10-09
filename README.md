@@ -1,6 +1,6 @@
 # Learning-C
 
-/bits
+/bits <br />
 /data_types
 /header-files
 /ostep
